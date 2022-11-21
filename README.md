@@ -10,7 +10,7 @@ Baseando-se nos testes automatizados já criados neste repo - similares aos feit
 1. Implemente os métodos marcados com um `//@TODO: comment`  em cada uma das respectivas services,
 na ordem que preferir:
 
-* [ x ] _services/StatementsService_
+* [x] _services/StatementsService_
 * [ x ] _services/WeirdMathService_
 * [ x ] _services/ReferencesService_
 * [ x ] _services/ObjectMethodsService_
